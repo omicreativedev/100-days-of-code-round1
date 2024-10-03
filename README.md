@@ -1,6 +1,6 @@
-# 100 Days of Code Round 1 - Start Date: 11/25/2023
+# 100 Days of Code
 
-11/25/2023
+
 
 
 Socials:
